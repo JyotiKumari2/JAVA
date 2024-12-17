@@ -92,6 +92,27 @@ Answer: Native methods are methods written in languages other than Java, such as
 Answer: The Method Area is a part of the memory in the JVM where class structures such as method and field data, the constant pool, and the code for methods are stored. This area is shared among all threads.
 
 
+# Polymorphism
+
+
+### Method Overloading : use for compile time polymorphism
+### Method Overriding : use for runtime polymorphism
+
+
+# Abstract Class
+
+### What is Abstract Class
+
+### Types of Classes
+- Abstract Class: We cannot create objects of abstract classes but we can create a reference.
+- Concrete Class : We can create objects of concrete classes.
+
+- If any class inheriting from abstract class the that class will also become abstract class.
+
  
 
+# Interfaces
 
+
+- Purpose of interface is to achieve polymorphism
+- Interfaces are implemented, and in java we implement multiple classes
