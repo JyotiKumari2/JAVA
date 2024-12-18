@@ -116,3 +116,4 @@ Answer: The Method Area is a part of the memory in the JVM where class structure
 
 - Purpose of interface is to achieve polymorphism
 - Interfaces are implemented, and in java we implement multiple classes
+- Interface is a collection of abstract methods
