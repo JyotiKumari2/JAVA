@@ -117,3 +117,13 @@ Answer: The Method Area is a part of the memory in the JVM where class structure
 - Purpose of interface is to achieve polymorphism
 - Interfaces are implemented, and in java we implement multiple classes
 - Interface is a collection of abstract methods
+
+
+# Multithreading
+
+- Multiprogramming - Running more than one program, i.e. multiple programs on single computer or machine is called **Multiprogramming**.
+
+- Forms of Multiprogramming-
+  1. Multi-user: Means more than one user using the same computer to run multiple programs simultaneously.
+  2. Multitasking: Single user- single computer, multiple task.
+  3. Multithreading:  Single User
